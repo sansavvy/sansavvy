@@ -1,5 +1,6 @@
 ### Hi, I’m Santhana Lakshmi S ! 👋
- I am beginner in React Js and Redux. I've started building skills in front-end development. I'm from Chennai, India.
+ I am beginner in React Js and Redux. I've started building skills in front-end development. 
+ I have good knowledge on HTML, CSS , Javascript. I'm from Chennai, India.
  I’m interested in Coding , Reading books.
  I’m currently learning React Js , Redux , React Hooks.
  I’m looking to collaborate on React Projects for front end development.
