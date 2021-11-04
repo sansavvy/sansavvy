@@ -1,7 +1,6 @@
 ### Hi, I’m Santhana Lakshmi S ! 👋
-  Markup : * I am beginner in React and Angular. 
- * I've started building skills in front-end.
- * I have good knowledge on HTML5, CSS3 , Javascript.
+ * I am beginner in React and Angular. 
+ * I have good knowledge in HTML5, CSS3 , Javascriptand ASP.NET. I have passed cloud certification like AZ 900 | AI 900.
  * I'm from Chennai, India.
  * I’m interested in Coding , Reading books.
  * I’m currently learning React and having bit of professional experience in Angular development.
