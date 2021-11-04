@@ -1,5 +1,5 @@
 ### Hi, I’m Santhana Lakshmi S ! 👋
-  Markup :* I am beginner in React and Angular. 
+  Markup : * I am beginner in React and Angular. 
  * I've started building skills in front-end.
  * I have good knowledge on HTML5, CSS3 , Javascript.
  * I'm from Chennai, India.
