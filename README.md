@@ -12,7 +12,7 @@
  
  ### What I'm focusing on 
  
- Currently improving my React Skills
+ Currently improving my Front end skills
  
  Connect with me on Linkedin [here](https://www.linkedin.com/in/santhana-lakshmi-s-177782168/)
  
