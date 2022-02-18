@@ -1,10 +1,11 @@
 ### Hi, I’m Santhana Lakshmi S ! 👋
- * I am beginner in React and Angular. 
- * I have good knowledge in HTML5, CSS3 , Javascript and ASP.NET. I have passed cloud certification like AZ 900 | AI 900.
+ 
+ * I have good knowledge in HTML5, CSS3 , Javascript. 
+ * I have passed cloud certification like AZ 900 | AI 900.
  * I'm from Chennai, India.
  * I’m interested in Coding , Reading books.
- * I’m currently learning React and having bit of professional experience in Angular development.
- * I’m looking to collaborate on distinct Projects for front end development.
+ * I’m having bit of professional experience in Angular development.
+
 
  > "Design is not just what it looks like and feels like.Design is how it works," - Steve Jobs
  ###
