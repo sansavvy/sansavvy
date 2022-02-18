@@ -1,7 +1,7 @@
 ### Hi, I’m Santhana Lakshmi S ! 👋
  
  * I have good knowledge in HTML5, CSS3 , Javascript. 
- * I have passed cloud certification like AZ 900 | AI 900.
+ * I have passed cloud certification like AZ 900 | AI 900 | DP 900.
  * I'm from Chennai, India.
  * I’m interested in Coding , Reading books.
  * I’m having bit of professional experience in Angular development.
