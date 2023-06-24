@@ -2,7 +2,7 @@
  
  * Experienced Angular developer with 2+years of industry experience. Skilled in HTML5, CSS3 , Javascript, Typescript and Agile methodologies. 
  * Passed cloud certification like AZ 900 | AI 900 | DP 900 | AZ 204.
- * Passionate in reading Books.
+ * Passionate in reading Books and Listening podcasts.
  * Determined Person and always pursue growth mindset.
 
 
