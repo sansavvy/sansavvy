@@ -1,7 +1,7 @@
 ### Hi, I’m Santhana Lakshmi S ! 👋
  
- * Experienced Angular developer with 3+years of industry experience.
- * Skilled in HTML5, CSS3 , Javascript, Typescript, Bootstrap, Angular material, Sass, Karma, Jasmine and Agile methodologies. 
+ * Experienced Angular developer with 3 +years of industry experience.
+ * Skilled in HTML5, CSS3 ,SASS, Javascript, Typescript, Bootstrap, Angular, Angular material, ReactJs,  testing frameworks (Karma, Jasmine), Azure Devops and Agile methodologies. 
  * Passed cloud certification like AZ 900 | AI 900 | DP 900 | AZ 204.
  * Passionate in reading Books and Listening podcasts.
  * Determined Person and always pursue growth mindset.
