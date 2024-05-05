@@ -1,6 +1,6 @@
 ### Hi, I’m Santhana Lakshmi S ! 👋
  
- * Experienced Angular developer with 3 +years of industry experience.
+  * Experienced front end developer with 3.5+ years in developing responsive web applications and User Interface.
  * Skilled in HTML5, CSS3 ,SASS, Javascript, Typescript, Bootstrap, Tailwind CSS, Angular, Angular material, React, Redux , testing frameworks (Karma, Jasmine, Jest), Azure Devops and Agile methodologies. 
  * Passed cloud certification like AZ 900 | AI 900 | DP 900 | AZ 204.
  * Passionate in reading Books and Listening podcasts.
