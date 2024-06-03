@@ -22,7 +22,7 @@
  
  Read My Blogs in Medium [here](	https://medium.com/@Sanlaksh04)
 
- Leetcode - click [here] (https://leetcode.com/u/sanlaksh04/)
+ Leetcode - click [here](https://leetcode.com/u/sanlaksh04/)
 <!---
 sansavvy/sansavvy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
