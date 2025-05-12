@@ -1,8 +1,8 @@
 ### Hi, I’m Santhana Lakshmi S ! 👋
  
-  * Experienced front end developer with 3.5+ years in developing responsive web applications and User Interface.
- * Skilled in HTML5, CSS3 ,SASS, Javascript, Typescript, Bootstrap, Tailwind CSS, Angular, Angular material, React, Redux , testing frameworks (Karma, Jasmine, Jest), Azure Devops and Agile methodologies. 
- * Passed cloud certification like AZ 900 | AI 900 | DP 900 | AZ 204.
+  * Experienced Full stack developer with 4+ years in developing responsive web applications and User Interface.
+ * Skilled in HTML5, CSS3 ,SASS, Javascript, Typescript, Bootstrap, Tailwind CSS, Angular, Angular material, React, Redux , testing frameworks (Karma, Jasmine, Jest),.Net Core, Azure Data factory , Azure functions , Azure Devops and Agile methodologies. 
+ * Passed cloud certification like AZ 900 | AI 900 | DP 900 | AI 102.
  * Passionate in reading Books and Listening podcasts.
  * Determined Person and always pursue growth mindset.
 
@@ -14,7 +14,7 @@
  
  ### What I'm focusing on 
  
- Currently improving my Front end skills
+ 
  
  Connect with me on Linkedin [here](https://www.linkedin.com/in/santhana-lakshmi-s-177782168/)
  
