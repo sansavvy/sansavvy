@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Santhana Lakshmi S 👋</h1>
 
 <h3 align="center">Azure Full Stack Developer · .NET Core · Angular · React · Azure Data Factory</h3>
-<h4 align="center">Microsoft Certified Azure AI Engineer · 5+ Years at Accenture · Chennai, India</h4>
+<h4 align="center">Microsoft Certified Azure AI Engineer · 5+ Years of developing cloud native apps</h4>
 
 <br/>
 
@@ -15,7 +15,6 @@ Complex data integration challenges have been addressed through ADF pipelines, r
 
 Four Microsoft Azure certifications have been earned, including **Azure AI Engineer Associate**, reflecting a commitment to building solutions that are not just functional today — but AI-ready for tomorrow.
 
-Recognition has also been received at the organisational level, with the **Accenture Celebrates Excellence Award (FY'21)** presented for outstanding contributions.
 
 > *"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
 
@@ -69,26 +68,6 @@ Recognition has also been received at the organisational level, with the **Accen
 
 ---
 
-### 💼 Experience
-
-**Senior Software Engineer** — Accenture *(Jun 2025 – Present)*
-Lead full stack development of cloud-native enterprise applications using .NET Core 8, Angular 17, and React. Drive Azure Data Factory pipeline design and optimisation for large-scale data integration.
-
-**Software Engineer** — Accenture *(Jun 2022 – May 2025)*
-Built and maintained enterprise-grade SPAs, implemented ADF pipelines for ETL automation, and developed REST APIs backed by SQL Server and Azure Cosmos DB. 🏆 *Accenture Celebrates Excellence Award FY'21*
-
-**Associate Software Engineer** — Accenture *(Dec 2020 – May 2022)*
-Contributed to full stack feature delivery on .NET Core and Angular projects, maintained database schemas and stored procedures, and wrote unit tests using Karma and Jasmine.
-
----
-
-### 📄 Publications
-
-- 📡 *Exploration of Spectrum Specifics using SDR for Wireless Systems*
-- 🌿 *IOT Driven 5G Implementation for Eco Sustainable Environment*
-
----
-
 ### 🔗 Connect with Me
 
 <p>
@@ -117,4 +96,4 @@ Contributed to full stack feature delivery on .NET Core and Angular projects, ma
 
 ### ✨ Beyond Code
 
-📚 Passionate about reading books and listening to podcasts · 🌱 Growth mindset — always learning · 🤝 Open to roles in product engineering, cloud platform teams, or early-stage startups building data-intensive or AI-augmented applications.
+📚 Passionate about reading books and listening to podcasts · 🌱 Growth mindset — always learning · 
