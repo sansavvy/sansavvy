@@ -1,6 +1,6 @@
 ### Hi, I’m Santhana Lakshmi S ! 👋
  
-  * Experienced Full stack developer with 4+ years in developing responsive web applications and User Interface.
+  * Experienced Azure Full stack developer with 5+ years in developing responsive web applications and User Interface.
  * Skilled in HTML5, CSS3 ,SASS, Javascript, Typescript, Bootstrap, Tailwind CSS, Angular, Angular material, React, Redux , testing frameworks (Karma, Jasmine, Jest),.Net Core, Azure Data factory , Azure functions , Azure Devops and Agile methodologies. 
  * Passed cloud certification like AZ 900 | AI 900 | DP 900 | AI 102.
  * Passionate in reading Books and Listening podcasts.
