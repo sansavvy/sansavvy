@@ -16,7 +16,7 @@ Complex data integration challenges have been addressed through ADF pipelines, r
 Four Microsoft Azure certifications have been earned, including **Azure AI Engineer Associate**, reflecting a commitment to building solutions that are not just functional today — but AI-ready for tomorrow.
 
 
-> *"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
+
 
 ---
 
